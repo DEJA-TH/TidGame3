@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795599811325",
+    "firebase_url": "https://tidgame-68528.firebaseio.com",
+    "project_id": "tidgame-68528",
+    "storage_bucket": "tidgame-68528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795599811325:android:42dabf1584f534af504494",
+        "android_client_info": {
+          "package_name": "com.bannacode.android.tidgame3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795599811325-74dpvdmv7u2cuahqi8cienglh6hsrt6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiV0RVMiQS3PKGtkseoF__sA1PJs8RAqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795599811325-74dpvdmv7u2cuahqi8cienglh6hsrt6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
